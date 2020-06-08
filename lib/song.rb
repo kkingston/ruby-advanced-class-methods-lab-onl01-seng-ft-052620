@@ -32,12 +32,13 @@ class Song
     @@all.each do |song| 
       if song.name == name
         return song
-        binding.pry 
       end
     end
   end
 end 
 
+
+binding.pry 
 
 
 
