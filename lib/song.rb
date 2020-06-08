@@ -51,7 +51,6 @@ class Song
     song.artist_name = x[0].strip
     song
     binding.pry 
-  end
     
   end 
 end 
