@@ -33,6 +33,7 @@ class Song
     song2 = self.find
     song2.name = name 
     song2
+  end
 end 
 
 
