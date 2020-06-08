@@ -45,6 +45,7 @@ class Song
     @@all.sort_by {|n| n.name}
   end 
   
+  def .new_frim_filename
 end 
 
 
