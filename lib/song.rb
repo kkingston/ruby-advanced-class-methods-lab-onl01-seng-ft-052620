@@ -34,8 +34,8 @@ class Song
         return song
       end
     end
-    nil
   end
+  nil
 end 
 
 
