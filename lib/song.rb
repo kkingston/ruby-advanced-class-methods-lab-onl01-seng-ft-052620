@@ -50,8 +50,7 @@ class Song
     song = self.create_by_name(x[1].strip)
     song.artist_name = x[0].strip
     song
-    binding.pry 
-    
+    # binding.pry 
   end 
 end 
 
